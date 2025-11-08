@@ -1,10 +1,11 @@
-# EJ-RG-2
+# ISA COSMETIC
 Este es un proyecto de repositorio creado por GitHub
-# MI PROYECTO
+# 💄 Proyecto: ISA COSMETIC
 este es un proyecto de pruba
 Autor: Isaura Banguera
 ## DESCRIPCION
-Aqui iria la descripcion del proyecto
+ISA COSMETIC es una plataforma dedicada al cuidado personal y la belleza, enfocada en ofrecer productos cosméticos naturales y de alta calidad.  
+El objetivo del proyecto es promover el bienestar y la confianza, combinando innovación, sostenibilidad y elegancia en cada producto. 
 ## COMANDOS
 Este es un ejemplo para colocar comamdos en el README
 ´´´ bash
